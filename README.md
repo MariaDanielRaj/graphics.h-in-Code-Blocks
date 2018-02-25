@@ -1,5 +1,6 @@
 # graphics.h-in-Code-Blocks
 GUIDE TO CONFIGURE AND USE graphics.h in Code Blocks
 
-Havent Install Code::Blocks ?
-http://www.codeblocks.org
+1. Havent Install Code::Blocks ?
+   http://www.codeblocks.org
+2. Download the Files and Follow the "README - INSTRUCTIONS.txt"
